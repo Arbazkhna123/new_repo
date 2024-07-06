@@ -1,0 +1,35 @@
+
+.btn{
+  
+    padding: 10px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.maindiv{
+    margin: 280px 200px;
+    background-color: rgba(195, 27, 18, 0.498);
+    height: 250px;
+    color: white;
+    width: 600px;
+    border-radius: 25px;
+    
+}
+marquee{
+    background-color: white;
+    color: rgb(104, 13, 79);
+    font-size: large;
+}
+.body{
+    background-image: url(./imgs/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ h4, a{
+    margin-top: 50px;
+}
+.reparent{
+    margin: 0px 28% 0px 28%;
+    background-color: rgb(133, 205, 207);
+}
